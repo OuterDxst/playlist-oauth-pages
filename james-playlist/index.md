@@ -1,11 +1,11 @@
 ---
 layout: default
-title: James Playlist OAuth
+title: James Playlist Automation
 ---
 
-# James Playlist OAuth
+# James Playlist Automation
 
-James Playlist OAuth is a personal desktop automation for creating and checking
+James Playlist Automation is a personal desktop automation for creating and checking
 playlists in the owner's YouTube account. It reads playlist information and
 creates playlists from requests prepared by the owner. It does not offer public
 sign-up or ask visitors to connect their Google accounts.
