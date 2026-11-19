@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Privacy notice | James Playlist OAuth
+title: Privacy notice | James Playlist Automation
 ---
 
 # Privacy notice
 
-**App:** James Playlist OAuth  
+**App:** James Playlist Automation  
 **Contact:** [james1.bae@gmail.com](mailto:james1.bae@gmail.com)  
 **Last updated:** 10 November 2026
 
